@@ -1,4 +1,4 @@
-# 🧱 OOP Assignment – Custom Class & Polymorphism Challenge
+# 🧱 OOP  – Custom Class & Polymorphism Challenge
 
 This project is a hands-on exercise in Object-Oriented Programming with Python. It contains two key parts:
 
